@@ -1,2 +1,2 @@
-[Alt text](swatch.css.png?raw=true "Swatch.CSS")
+![Swatch.CSS](swatch.css.png)
 # Swatch-CSS
